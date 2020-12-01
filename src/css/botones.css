@@ -1,0 +1,12 @@
+button{display:none;}
+.visible {
+      display: inline-block;
+      background-color: #3cf42d !important;
+      border: none;
+      color: white;
+      padding: 15px 100px;
+      font-size: 13px;
+      -webkit-box-shadow: 0 10px 30px 0 rgba(60,205,55,0.4);
+      box-shadow: 0 10px 30px 0 rgba(60,205,55,0.4);
+
+}
