@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>login</title>
+    <link rel="stylesheet" href="src/css/style.css">
+    <link rel="stylesheet" href="src/css/bootstrap.css">
+    <script src="src/js/jquery-3.4.1.js"></script>
+    <script src="src/js/bootstrap.js"></script>
+    <link rel="stylesheet" href="src/css/botones.css">
+
+</head>
+<body class="text-center">
+  <div id="app-user"> <!--App Vuejs-->
+
+        <div class="login-cont" ></div>
+        <div  class="login">
+            <form class="form-signin">
+            <h2 class="h2 mb-3 font-weight-normal"> {{titlelog}}</h2>
+              <img class="mb-4" src="src/img/usuario.svg" alt="" width="150" height="70">
+              <div v-bind:class="alertaofaccess" role="alert" style="font-weight: 400;">
+                  {{messagealert}}
+                  </div>
+
+
+              <label for="inputEmail"  class="sr-only">Contraseña</label>
+              <input type="email" id="user"  class="form-control" placeholder="Usuario" required autofocus>
+              <label for="inputPassword"  id="user" class="sr-only">Contraseña</label>
+              <input type="password" id="password" class="form-control" placeholder="Contraseña" required>
+              <button class="btn btn-lg btn-primary btn-block" type="button"  @click="accesoUser()">{{btniniciartext}}</button>
+              <!--<a href="#" class="registera" data-toggle="modal" data-target="#register">Registrarme</a>-->
+              <p class="year-p mt-5 mb-3 "> &copy; 2020-2021</p>
+
+            </form>
+
+
+
+        </div>
+
+        <!-- The Modal -->
+
+
+        </div><!--End App Vuejs-->
+
+     <script src="src/js/axios.js"></script>
+     <script src="src/js/vue.js"></script>
+     <script src="src/js/CrudAdmin.js"></script>
+
+</body>
+</html>
