@@ -1,0 +1,45 @@
+[13-Nov-2020 15:51:57 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/Estadoproducto.php on line 37
+[13-Nov-2020 15:51:57 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/Estadoproducto.php on line 37
+[13-Nov-2020 15:51:57 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/Estadoproducto.php on line 37
+[13-Nov-2020 15:52:08 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/Estadoproducto.php on line 37
+[13-Nov-2020 15:52:08 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/Estadoproducto.php on line 37
+[13-Nov-2020 15:52:08 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/Estadoproducto.php on line 37
+[13-Nov-2020 15:52:15 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/Estadoproducto.php on line 37
+[13-Nov-2020 15:52:15 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/Estadoproducto.php on line 37
+[13-Nov-2020 15:52:15 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/Estadoproducto.php on line 37
+[13-Nov-2020 15:52:32 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/Estadoproducto.php on line 37
+[13-Nov-2020 15:52:32 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/Estadoproducto.php on line 37
+[13-Nov-2020 15:52:32 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/Estadoproducto.php on line 37
+[25-Nov-2020 20:40:04 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 32
+[25-Nov-2020 20:40:04 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 32
+[25-Nov-2020 20:40:04 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 32
+[25-Nov-2020 20:40:34 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 32
+[25-Nov-2020 20:40:34 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 32
+[25-Nov-2020 20:40:34 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 32
+[25-Nov-2020 20:41:52 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 32
+[25-Nov-2020 20:41:52 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 32
+[25-Nov-2020 20:41:52 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 32
+[25-Nov-2020 20:44:38 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:44:38 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:44:38 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:45:39 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:45:39 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:45:39 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:45:53 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:45:53 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:45:53 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:46:25 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:46:25 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:46:25 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:47:12 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:47:12 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:47:12 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:47:37 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:47:37 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:47:37 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:47:40 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:47:40 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:47:40 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:48:04 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:48:04 UTC] PHP Warning:  require(header.html): failed to open stream: No such file or directory in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
+[25-Nov-2020 20:48:04 UTC] PHP Fatal error:  require(): Failed opening required 'header.html' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aswfcpbu/public_html/equipo7.10b/view/productos.php on line 31
